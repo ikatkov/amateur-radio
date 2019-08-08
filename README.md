@@ -2,18 +2,23 @@
 ![Overall picture](/dummy-load.jpg)
 
 It's made of RFP 250-50 RF metal film resistor that is rated to 250W and 1/4" aluminum angle ~10"x12".
-This is how it looks from the back. Notice that the RF resistor is very close to the SO-239, did not want to introduce any unwanted reactance.
+
 
 ![back](/dummy-load-back.jpg)
 
 
+This is how it looks from the back. Notice that the RF resistor is very close to the SO-239, did not want to introduce any unwanted reactance.
+
 Here is what antenna analyzer shows
+
 ![impendance](/dummy-load-data.jpg)
+
 impedance 49.7 ... 52.3 Ohm on 3 ... 50Mhz range
 
 
 ## Return loss 
 This is a measure of how well the load absorbs RF
+
 return loss > 30dB 0-50MHz
 ![GitHub Logo](/dummy-load-return-loss.png)
 
